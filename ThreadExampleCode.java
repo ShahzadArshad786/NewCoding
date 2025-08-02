@@ -12,10 +12,9 @@ class Demo extends Thread
                 Thread.sleep(1000);
             }
         }
-        
         catch(InterruptedException i )
         {
-
+            
         }
     }
 }
