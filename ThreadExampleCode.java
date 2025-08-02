@@ -1,6 +1,6 @@
 class Demo extends Thread
 {
-    
+
     @Override
     public void run()
     {
