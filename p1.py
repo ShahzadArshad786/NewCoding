@@ -1,6 +1,5 @@
 
 '''Write a python code using while loop to print even numbers 
-
    and count odd numbers from 1 to 20
 '''
 s = 1 

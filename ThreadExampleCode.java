@@ -25,7 +25,6 @@ public class ThreadExampleCode {
     {
         
         Demo obj = new Demo();
-
         obj.start();
 
         for(int i = 1 ; i <= 5 ; i++)
@@ -34,5 +33,4 @@ public class ThreadExampleCode {
             Thread.sleep(1000);
         }
     }
-    
 }
